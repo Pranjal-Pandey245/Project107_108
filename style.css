@@ -1,0 +1,33 @@
+body{
+    background-color:rgb(218, 120, 243);
+}
+.header_div{
+    background-color: whitesmoke;
+    color:lime;
+}
+
+.header_div p{
+    color:lightsalmon;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.main_div button{
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+
+.copy_right{
+    position: fixed;
+    color:rgb(46, 175, 147);
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color:palegoldenrod;
+    line-height: 4;
+    text-align: center;
+    text-shadow: 5px 5px 5px grey;
+}
